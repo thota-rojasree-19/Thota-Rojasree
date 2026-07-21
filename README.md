@@ -59,7 +59,7 @@ Python Developer • MERN Stack Developer • AI & Machine Learning Enthusiast
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,mysql,html,css,bootstrap,tailwind,git,github,vscode,postman,vercel,render"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,git,github,vscode,postman,fastapi,flask,tensorflow" />
 
 </p>
 
